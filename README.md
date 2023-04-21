@@ -10,6 +10,7 @@ Created connections, join new tables, calculations to manipulate data and enable
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
 It includes :
+           
             1)Top 5 state according to total sales amount of each state.
             
             2)Top 5 Customer according to sales amount of each customer.
