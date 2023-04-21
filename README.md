@@ -8,4 +8,4 @@ Used complex parameters to drill down in worksheet and customization using filte
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
 
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
-[Ecommerce sales dashboard.pdf](https://github.com/tiyasadey3/POWER_BI_PROJECT_ECOMMERCE_SALES_DASHBOARD/files/11294429/Ecommerce.sales.dashboard.pdf)
+![Ecommerce sales dashboard-1](https://user-images.githubusercontent.com/73987736/233604932-505eecb3-018d-453b-aa34-91e3435f0ea3.png)
